@@ -2,7 +2,7 @@
    PADARIA PÃO & CIA — CSS do Encontro 1
    Paleta com contraste aprovado no padrão WCAG AA
    ========================================================= */
-
+ 
 /* box-sizing: a largura já inclui padding e borda (Box Model) */
 * {
     box-sizing: border-box;
@@ -13,13 +13,13 @@ body {
     line-height: 1.6;
     margin: 0;
     color: #3B2A1E;             /* marrom escuro (texto) */
-    background-color: #FFF8F0;  /* creme (fundo) */
+    background-color: #1e0e7c;  /* creme (fundo) */
 }
 
 /* ===== Cabeçalho ===== */
 .cabecalho {
     background-color: #850000;  /* âmbar escuro — texto branco tem contraste AA */
-    color: #FFFFFF;
+    color: #270091;
     text-align: center;
     padding: 24px 16px;
 }
